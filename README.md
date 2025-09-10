@@ -1,17 +1,25 @@
-<<<<<<< HEAD
-# React + Vite
+# 🔐 Password Manager (MERN Stack)
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A secure password manager built with the **MERN stack** (MongoDB, Express, React, Node.js).  
+Only the admin can log in and manage stored passwords with full CRUD (Create, Read, Update, Delete) functionality.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🚀 Features
+- 🔑 Store, view, update, and delete passwords
+- 🔒 Secure storage in MongoDB
+- 👤 Admin-only access
+- ⚡ Fast backend with Express.js
+- 🎨 Modern frontend with React
 
-## Expanding the ESLint configuration
+---
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
-=======
-# Password-Manager
-Password Manager using React, Tailwind, MongoDB &amp; Express 
->>>>>>> a135b95e914b9677d41d455d0cba6a3613735203
+## 🛠️ Tech Stack
+- **Frontend:** React, Tailwind CSS (or your styling choice)
+- **Backend:** Node.js, Express.js
+- **Database:** MongoDB (Mongoose)
+- **Version Control:** Git & GitHub
+
+---
+
+## 📂 Project Structure
