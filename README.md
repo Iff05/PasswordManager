@@ -22,4 +22,3 @@ Only the admin can log in and manage stored passwords with full CRUD (Create, Re
 
 ---
 
-## 📂 Project Structure
